@@ -1,0 +1,5 @@
+{
+  "Pancake": 4,
+  "Pasta": 8,
+  "Coffee": 3
+}
